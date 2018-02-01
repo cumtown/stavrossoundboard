@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "firebones": "firebones-6bc2a",
+    "staging": "cumtown-1e7ab",
+    "dev": "stavrossoundboard"
+  }
+}
